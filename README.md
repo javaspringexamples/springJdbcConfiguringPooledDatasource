@@ -1,4 +1,4 @@
-# \springJdbcConfiguringPooledDatasource
+# springJdbcConfiguringPooledDatasource
 This example presents the basic concept of configuring a connection pooled datasource in Spring JDBC.
 
 The technologies used are :
